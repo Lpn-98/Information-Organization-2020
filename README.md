@@ -1,5 +1,4 @@
 # Information-Organization-2020
-自写代码
-纯属娱乐
-若有错误
-自用自改
+Coded just for my "Information Organization" class.
+
+课程需要，自己写的代码。
